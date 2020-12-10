@@ -17,5 +17,9 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         // do nothing
     }
+    
+    func useless () {
+        // totally useless function for version control testing
+    }
 }
 
